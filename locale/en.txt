@@ -1,0 +1,64 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 The MIX
+
+## Media
+
+### Title
+album_F263B8A7_BB27_DFDE_4193_6CAC4FD1824B.label = Photo Album ProjectPIK2 (AreaEcopark)_ViewGerejaBEV_Draft01
+map_7760C5C4_66F9_7457_41D5_76BA2224D23D.label = SAPPORO RESIDENCES
+map_8E2ABB0B_8053_402D_41DE_701B079CEF9B.label = Misaki 7x12 Lt 2
+map_8ED5F7B6_805F_C067_41D5_556B11C1A833.label = Ryuji 9x15 Lt 3
+map_8ED69DE7_8052_C3E5_41D1_D8EB74832810.label = Misaki 7x12 Lt 3
+map_8ED748D5_8053_4025_41C0_F583E9FDEA2D.label = Misaki 7x12 Lt 1
+map_8EDB88BC_805F_406B_41B8_4A897CFAF143.label = Ryuji 9x15 Lt 1
+map_8EDE44F2_805F_C1FF_41DC_6101EA9F2D6C.label = Ryuji 9x15 Lt 2
+map_C33E0AFA_CE2B_2B04_41CD_D78626BE4D80.label = Azumi 5x10 Lt 1
+map_E41F0BD1_E8FE_6CDA_41D7_AA7991D013FC.label = Nami 7x15 Lt 3
+map_E429D27F_E8FF_DFC5_41DA_F7E0BD46B133.label = Nami 7x15 Lt 2
+map_E49D41D1_E8FA_3CDA_41D2_68405928DD67.label = Azumi 5x10 Lt 2
+map_E5A47408_E8F9_DB4B_41BD_7B3875B196FD.label = Azumi 5x10 Lt 3
+map_E5E4DACD_E8FE_2CC5_41D0_E7DFFC790EE3.label = Nami 7x15 Lt 1
+panorama_ACE3136F_A046_0869_41E0_1139CCD4C1B8.label = 360TheMix_View02Apartement1Lt_Kamar_DraftAngle
+panorama_ACE3BAD4_A046_18B8_41E0_79518B3F31AD.label = 360TheMix_View03Soho_RuangTidur_DraftAngle
+panorama_ACE3D718_A046_09B7_41E2_DCB1D8C4B9D4.label = 360TheMix_View02Soho_KamarMandi_DraftAngle
+panorama_ACE3DE52_A046_1BBB_41D2_613AAAD33E95.label = 360TheMix_View04Apartment1Lt - KamarMandi_DraftAnge
+panorama_ACF98B68_A042_F997_41E1_17EE6FB8FC84.label = Apartement
+panorama_AD519EA2_A046_389B_41E1_4C123D72D7B2.label = 360TheMix_View01Apartement1Lt_RuangTamu_DraftAngle
+panorama_ADC6E256_A042_0BB8_41DE_C820952565B5.label = Soho
+
+## Hotspot
+
+### Tooltip
+HotspotMapOverlayArea_5205A049_26B7_5B8E_41BD_E28384ABCF13.toolTip = Kamar Utama
+HotspotMapOverlayArea_5421AD01_26B3_257E_41B4_73359A2304E9.toolTip = Ruang Utama
+HotspotMapOverlayArea_54F242AC_26B1_5C87_41AA_E7C86CEF531E.toolTip = Zen Garden Lantai 2
+HotspotMapOverlayArea_5538F605_26B1_2781_41B6_22BDB9C8EC9F.toolTip = Kamar Anak 2
+HotspotMapOverlayArea_55BF7B1F_26B1_2D82_41BE_70F3179AFACB.toolTip = Kamar Anak 1
+HotspotMapOverlayArea_563A298E_26B1_2C82_41C3_02098C416401.toolTip = Teras Ryuji
+HotspotMapOverlayArea_56C309D7_26B1_2C81_41C0_2F88346A61B1.toolTip = Kamar Utama
+HotspotMapOverlayArea_57A1B298_26B0_DC8E_41B1_353E590BF18F.toolTip = Ruang Tamu
+HotspotMapOverlayArea_68B4E7B3_2671_2481_41B6_03CB417844DA.toolTip = Teras Misaki
+HotspotMapOverlayArea_69F5BCC1_267F_6481_4192_99458B223A6C.toolTip = Zen Garden Rooftop
+HotspotMapOverlayArea_6A8306EB_2671_E481_41B6_397319F222E2.toolTip = Ruang Tamu
+HotspotMapOverlayArea_6B5A523D_267F_FF81_41B5_7BA4407F8520.toolTip = Lorong Lantai 3
+HotspotMapOverlayArea_6BCCF217_267F_5F81_41A1_5153126BB178.toolTip = Ruang Kamar Anak
+HotspotMapOverlayArea_6C8B539D_2670_DC81_41B8_8C7C3F4523E6.toolTip = Teras Azumi
+HotspotMapOverlayArea_6DF7B489_2671_6481_41B7_E7EA82F8216A.toolTip = Kamar Tidur Utama
+HotspotMapOverlayArea_711DFCF5_2677_2481_41AF_7B18811BFE3C.toolTip = Ruang Utama
+HotspotMapOverlayArea_717666C7_2677_2482_41B9_EA757546C6F7.toolTip = Lorong Lantai 1
+HotspotMapOverlayArea_73EF080F_2671_2B81_41BB_D20E2757FF6F.toolTip = Teras Nami
+HotspotMapOverlayArea_74545806_2673_EB82_4182_0CD934EE5E23.toolTip = Kamar Tidur Utama
+HotspotMapOverlayArea_749A0390_2673_3C9E_41B1_CF627B167FC0.toolTip = Lorong Lantai 3
+HotspotMapOverlayArea_751AC4DD_2671_6486_41B2_F8817E6DF917.toolTip = Zen Garden Rooftop
+HotspotMapOverlayArea_763F98C3_2671_6C81_41B2_54CADFDF087D.toolTip = Kamar Tidur Lantai 2
+HotspotMapOverlayArea_77703F6B_2671_2581_41B2_9E256897C5C4.toolTip = Ruang Tamu
+HotspotMapOverlayArea_7786F852_2673_2B82_41C1_5C8A18379BE2.toolTip = Kamar Tidur Lantai 2
+HotspotMapOverlayArea_7E2DF736_2671_2582_4196_66A654463F08.toolTip = Zen Garden Lantai 2
+HotspotMapOverlayArea_7F108076_2671_7B83_41BA_5DBF10E9151F.toolTip = Kamar Anak 1
+HotspotMapOverlayArea_7F10B062_2671_DB83_41A9_CE19437090F6.toolTip = Kamar Anak 2
