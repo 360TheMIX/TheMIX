@@ -1,8 +1,4 @@
 {
- "name": "360 The MIX",
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
- "start_url": "index.htm",
  "icons": [
   {
    "sizes": "512x512",
@@ -40,5 +36,9 @@
    "src": "misc/icon16.png"
   }
  ],
+ "theme_color": "#FFFFFF",
+ "name": "360 The MIX",
+ "display": "fullscreen",
+ "start_url": "index.htm",
  "background_color": "#FFFFFF"
 }
