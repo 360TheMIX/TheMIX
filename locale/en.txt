@@ -25,7 +25,10 @@ panorama_D3340043_DE16_0442_41E2_AA139305632E.label = Soho_View02_KamarMandi_Dra
 panorama_D61831EC_DAC8_C5B1_41E1_76CC446790EA.label = Apartement2Lt_View01_RuangKantor_Draft01
 panorama_D73BF5F1_DABB_4D93_41DA_031CC14DA96A.label = SOHO A2
 panorama_D7E07D80_DAC8_C272_41C5_D73AE8E4428A.label = Apartement2Lt_View06_Kamar_Draft01
+<<<<<<< HEAD
 panorama_DD42349F_D106_6FAF_41E0_3EDE6E03B91B.label = ROOFTOP
+=======
+>>>>>>> 2145e74aa03188e0dd859f47078d78e72397e0f4
 panorama_E9E02A2F_DB5B_C68E_41AF_E08C57A7F8EA.label = Apartement2Lt_View05_Koridor_Draft01
 panorama_ED2859E9_DB49_C5B2_41E8_4E582FB372A4.label = SOHO C
 panorama_F1E2C6DE_DB48_CF91_41E6_313354ED3FAA.label = Apartement1Lt_View04_KamarMandi_Draft01
